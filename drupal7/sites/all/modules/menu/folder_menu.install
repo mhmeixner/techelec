@@ -1,0 +1,20 @@
+<?php
+/**
+ * @file
+ * Folder Menu module install/schema hooks.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function folder_menu_uninstall() {
+  variable_del('folder_menu_parent');
+  variable_del('folder_menu_position');
+  variable_del('folder_menu_distance_from_top');
+  variable_del('folder_menu_font');
+  variable_del('folder_menu_background_color');
+  variable_del('folder_menu_text_color');
+  variable_del('folder_menu_hover_color');
+  variable_del('folder_menu_submenu_text_color');
+  variable_del('folder_menu_submenu_hover_color');
+}

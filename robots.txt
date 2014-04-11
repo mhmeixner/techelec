@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: http://www.techelectricity.com/sitemap.xml
+
+
+

@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="title/metatags" -->
+<title>BlueMesa Dreamweaver template</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!-- TemplateEndEditable -->
+<style type="text/css" media="all">
+<!--
+@import url("../styles/styles.css");
+-->
+</style>
+<!--[if IE 5]>
+<style type="text/css"> 
+/* IE 5 does not use the standard box model, so the column widths are overidden to render the page correctly. */
+#outerWrapper #contentWrapper #leftColumn1 {
+  width: 220px;
+}
+</style>
+<![endif]-->
+<!--[if IE]>
+<style type="text/css"> 
+/* The proprietary zoom property gives IE the hasLayout property which addresses several bugs. */
+#outerWrapper #contentWrapper #content {
+  zoom: 1;
+}
+</style>
+<![endif]-->
+</head>
+<body>
+<div id="headerWrapper">
+  <div id="header">
+    <div id="logo"><a href="#"><img src="../images/tech-electricity-logo.jpg" alt="" width="400" height="117" /></a></div>
+    <div id="nav">
+      <ul>
+        <li><a href="#">home</a></li>
+        <li><a href="#">products</a></li>
+        <li><a href="#">services</a></li>
+        <li><a href="#">about</a></li>
+        <li><a href="#">contact</a></li>
+      </ul>
+    </div>
+    <div id="tagline">Get our free newsletter by email. <a href="#">&nbsp;Sign up today!</a></div>
+  </div>
+</div>
+<!-- The featureWrapper div encloses the feature box. If you don't want the feature box to display on every page of your site, simply select the entire featureWrapper div and delete it. -->
+<div id="featureWrapper">
+  <div id="feature"> <img src="../images/feature-product.jpg" alt="" width="667" height="233" style="float: right;"/>
+    <p class="feature-title">Text can go here</p>
+    <p class="feature-text">More text goes here</p>
+    <ul>
+      <li>Bulleted list item 1</li>
+      <li>Bulleted list item 2</li>
+      <li>Bulleted list item 3</li>
+    </ul>
+    <p class="feature-title"><a href="#">Click here now!</a></p>
+  </div>
+</div>
+<div id="outerWrapper">
+  <div id="contentWrapper">
+    <div id="leftColumn1"><!-- TemplateBeginEditable name="sidebar" -->
+      <div id="leftColumnContent"> <strong>This is the left navigation section</strong>
+        <ul>
+          <li><a href="#">Navigation Link 1</a> </li>
+          <li><a href="#">Navigation Link 2</a></li>
+          <li><a href="#">Navigation Link 3</a></li>
+          <li><a href="#">Navigation Link 4</a></li>
+          <li><a href="#">Navigation Link 5</a></li>
+        </ul>
+        <div class="sidebarbox">
+          <div class="sidebarboxtop">
+            <p><strong>Rounded Corner Boxes</strong></p>
+            <p>&nbsp;</p>
+            <p>This box is created using three images, the top rounded corners, the bottom rounded corners, and a vertically-repeating background image.</p>
+            <p>&nbsp;</p>
+            <p> Rounded corners are eye-pleasing and we've included the vector box in the Fireworks file, so you can make your boxes whatever color you like.<br />
+            </p>
+          </div>
+          <div class="sidebarboxbottom"></div>
+        </div>
+        <p class="sidebarlt"><strong>Square Corners too!</strong><br />
+          <br />
+          If you like square corners better make a box like this simply by applying the &quot;sidebarlt&quot; class to a paragraph tag.<br />
+          <br />
+          But remember to use hard line breaks rather than a new paragaraph. Or you'll have a bunch of little boxes!<br />
+          <br />
+          <a href="#">Here's a text link.</a></p>
+        <p class="sidebardk"><strong>Even Dark Square Boxes</strong><br />
+          <br />
+          To make a box like this, assign the &quot;sidebardk&quot; class.<br />
+          <br />
+          You can do anything with a sidebar box. Insert images, ads or other web content.<br />
+          <br />
+          <a href="#">Here's a text link.</a></p>
+      </div>
+      <!-- TemplateEndEditable --></div>
+    <div id="content"><!-- TemplateBeginEditable name="content" -->
+      <h1>BlueMesa Dreamweaver template - Home page template</h1>
+      <p>This template includes an optional feature section between the header and the content. We also include the Fireworks source file so you can easily change the color sheme and graphics of the template. To install the template, simply unzip the files into the root directory of your Dreamweaver site, create your pages from the templates and add your content. It's that easy!</p>
+      <h2>Image Floated Left - This is the H2 tag</h2>
+      <p><img src="../images/sample2.jpg" alt="Dreamweaver CS3" width="110" height="110" class="fltlft" />An image with the assigned class &quot;fltlft&quot; will be aligned with the left edge of the content div, with a 10 pixel right margin and a 10 pixel bottom margin.</p>
+      <p>Etiam leo pede, rhoncus venenatis, tristique in, vulputate at,  odio. Donec et ipsum et sapien vehicula nonummy. Suspendisse potenti. Fusce  varius urna id quam. Sed neque mi, varius eget, tincidunt nec, suscipit id,  libero. In eget purus. </p>
+      <p>&nbsp;</p>
+      <h2>Image Floated Right</h2>
+      <p><img src="../images/sample1.jpg" alt="A Laptop Computer" width="150" height="113" class="fltrt" />An image with the assigned class &quot;fltrt&quot; will align with the right margin of the content with a left margin of 10 pixels and a bottom margin of 10 pixels.</p>
+      <p>Etiam leo pede, rhoncus venenatis, tristique in, vulputate at,  odio. Donec et ipsum et sapien vehicula nonummy. Suspendisse potenti. Fusce  varius urna id quam. Sed neque mi, varius eget, tincidunt nec, suscipit id,  libero. In eget purus. </p>
+      <h2>Editable Metatags and Head Section</h2>
+      <p>The template allows for editing of the Title, Description and Keywords tags for each page plus another editable area in the Head for inserting scripts and other Head content.</p>
+      <h2>Editable Template Areas Included</h2>
+      <p>The template has left sidebar and content editable areas built-in already, so you can be up and running very quickly. You can change any of the editable regions in the template to meet the needs of your website project.</p>
+      <h2>Fireworks and Photoshop Graphics Files Included</h2>
+      <p>We've included the original Fireworks file (also exported as a PSD) in which we created the the site images. It includes all the graphic elements in this template with all the slices already created. It will be very easy to customize this template to suit your needs. All the image elements are vector graphics, so you can change colors, gradients, shadows, etc very quickly to generate a new look.</p>
+      <!-- TemplateEndEditable --></div>
+    <br class="clearFloat" />
+  </div>
+  <div id="footer">
+    <img src="http://www.justdreamweaver.com/templates/link/spacer.gif" width="1" height="1" /><div style="float: left;">Copyright © 2008 Your Website Name</div>
+    <div style="float: right; text-align: right;"><a href="#">Privacy</a> | <a href="#">Terms of Use</a> | <a href="#">Site Map</a></div>
+  </div>
+  <!--The following code must be left in place and unaltered for free usage of this theme. If you wish to remove the links, visit http://www.justdreamweaver.com/dreamweaver-templates.html and purchase a template license.-->
+  <div id="credit"><a href="http://www.justdreamweaver.com/dreamweaver-templates.html">Free Dreamweaver Templates</a> | <a href="http://www.justdreamweaver.com/dedicated-hosting.html">Dedicated Hosting</a> | <a href="http://www.justdreamweaver.com/cheap-web-hosting.html">Cheapest Web Hosting</a></div>
+</div>
+</body>
+</html>
