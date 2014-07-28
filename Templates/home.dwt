@@ -6,7 +6,7 @@
 <title>Texas prepaid electricity,  prepaid energy, houston, dallas, tx</title>
 
 <link rel="canonical" href="http://www.techelectricity.com" />
-
+<link href="../styles/styles.css" rel="stylesheet" type="text/css" />
 <meta name="ROBOTS" content="NOODP, NOYDIR" />
 
 <meta name="description" content="Get Affordable, Texas prepaid electricity from Tech Electricity. No Deposit. No Credit Check. No late fees, ever. Call 888-620-3785 for Texas prepaid energy" />
@@ -15,9 +15,7 @@
 
 <!-- jdGi6cs2Na7h -->
 
-<style type="text/css" media="all">
-@import url("../styles/styles.css");
-</style>
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
