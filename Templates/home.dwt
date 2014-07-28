@@ -1,23 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<style type="text/css">
-<!--
-#sameday {
-	text-align: center;
-}
--->
-</style>
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
 <head>
 
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Texas prepaid electricity,  prepaid energy, houston, dallas, tx</title>
 
 <link rel="canonical" href="http://www.techelectricity.com" />
 
-<META NAME="ROBOTS" CONTENT="NOODP, NOYDIR">
+<meta name="ROBOTS" content="NOODP, NOYDIR" />
 
 <meta name="description" content="Get Affordable, Texas prepaid electricity from Tech Electricity. No Deposit. No Credit Check. No late fees, ever. Call 888-620-3785 for Texas prepaid energy" />
 
@@ -26,29 +16,8 @@
 <!-- jdGi6cs2Na7h -->
 
 <style type="text/css" media="all">
-<!--
 @import url("../styles/styles.css");
-#featureWrapper #feature .feature-title strong {
-	color: #036;
-}
--->
 </style>
-<!--[if IE 5]>
-<style type="text/css"> 
-/* IE 5 does not use the standard box model, so the column widths are overidden to render the page correctly. */
-#outerWrapper #contentWrapper #leftColumn1 {
-  width: 220px;
-}
-</style>
-<![endif]-->
-<!--[if IE]>
-<style type="text/css"> 
-/* The proprietary zoom property gives IE the hasLayout property which addresses several bugs. */
-#outerWrapper #contentWrapper #content {
-  zoom: 1;
-}
-</style>
-<![endif]-->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -96,16 +65,14 @@
 </div>
 <div id="outerWrapper">
   <div id="contentWrapper">
-    <div id="leftColumn1">
-      <div id="leftColumnContent"><strong>Helpful Prepaid Energy Links</strong>
+    <div id="leftColumn1"><!-- #BeginLibraryItem "/Library/left-sidebar.lbi" --><div id="leftColumnContent"><strong>Helpful Prepaid Energy Links</strong>
         <ul>
           <li><a href="../prepaid-energy-services.html">Advantages of Prepaid Energy</a></li>
           <li><a href="../electricity-pricing.html">Prepaid Electricity Pricing</a></li>
           <li><a href="../energy-usage-tips.html">Energy Usage Tips</a></li>
           <li><a href="../same-day-service.html">Same Day Service</a></li>
           <li><a href="../texas-prepaid-electricity.html">Coverage Map</a></li>
-          <li></li>
-        </ul>
+</ul>
         <p class="sidebarlt"><strong>Why should I choose Payless Power prepaid electricity?<br />
             <br />
         </strong>In addition to our low prepaid<br />
@@ -120,14 +87,16 @@ competitors might. This includes: <br />
 <br />
 <span style="text-align: center"> Most importantly this means<br />
 <strong> <u>No billing surprises for you!</u></strong></span></p>
-        <p class="sidebardk">Connect your service <u>today</u> for <strong>as low as $25*</strong> with our convenient <strong>Flex Pay </strong>discount plan<br />
-          <br />
-Call <strong>888-620-3785</strong> for details<br />
-<br />
-<span class="disclaimer">*Min. balance to start service is $50. A <u>Free $25 start up instant credit</u> will be applied which is subject to change. </span></p>
-        <p><a href="../electricity-pricing.html"><img src="../images/free-electricity-techelectr.jpg" width="196" height="149" alt="Free $25 Electricity Credit" /></a></p>
-      </div>
-    </div>
+        <p class="sidebardk"><span style="font-size: 17px; font-weight: normal; text-transform: uppercase; line-height: normal;">Connect  Service<br />
+          <u style="font-size: 24px">Today</u></span><br />
+          <span style="text-align: center; font-size: 16px; font-style: italic; font-weight: normal; line-height: 2.5em;">For <strong>as little as <span style="font-size: 24px">$25</span></strong></span>
+          
+          <span style="font-size: 12px"><br />
+          <span style="color: #F7D703; text-shadow: 2px 1px #333; font-size: 12.5px;">With SmarTricity + Flex Pay 0</span></span> <br />
+          Call <strong>888-620-3785</strong> for details        </p>
+        <p class="disclaimer">Min. balance to start service is $35. $100 credit requires an initial  payment of at least $75. The $100 credit is paid in installments of $10 every 30 days for 10 months. Service must be maintained for 180 days or all promotion credits will be charged back to the account. </p>
+        <p><a href="../electricity-pricing.html"><img src="../images/free-connection-banner-100.jpg" width="204" height="155" alt="Free $100 Electricity Credit" /></a></p>
+    </div><!-- #EndLibraryItem --></div>
     <!-- TemplateBeginEditable name="body" -->
     <div id="content">
       <h1>Texas Prepaid Electricity</h1>
@@ -144,10 +113,10 @@ Call <strong>888-620-3785</strong> for details<br />
         <li><strong>Signing up is as easy as a phone call</strong></li>
       </ul>
       <h2><a href="../electricity-pricing.html" id="sameday">Need same-day electric service? </a></h2>
-      <table width="100%" height="30" border="0" align="center" cellpadding="0" cellspacing="5">
+      <table width="100%" height="30" border="0" cellpadding="0" cellspacing="5">
         <tr>
-          <td width="54%"><img src="../images/prepaid-energy-banner.jpg" alt="Payless prepaid electricity operator" width="350" height="225" /></td>
-          <td width="46%"><p align="left" class="center-contact">Sign Up in <strong><br />
+          <td><img src="../images/prepaid-energy-banner.jpg" alt="Payless prepaid electricity operator" width="350" height="225" /></td>
+          <td><p align="left" class="center-contact">Sign Up in <strong><br />
             15 minutes or less</strong><br />
           </p>
             <p align="left" class="center-contact"><strong>Call: Payless Power</strong><span class="style2"><br />
@@ -177,7 +146,7 @@ document.write(d.getFullYear());
     
     </div>
     <div style="float: right; text-align: right;"><a href="#">888-620-3785</a></div>
-    <div class="centerfooterlinks"> |<a href="http://www.techelectricity.com/blog"> Blog</a> | <a href="/sitemap.html">Sitemap</a> |</div>
+    <div class="centerfooterlinks"> <a href="http://www.techelectricity.com/blog">Blog</a> | <a href="/sitemap.html">Sitemap</a></div>
   </div>
 </div>
 
