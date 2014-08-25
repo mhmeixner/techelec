@@ -1,2 +1,2 @@
-mkdir ~/html/codeshipdeploy
-put -rp ~/clone/* ~/html/codeshipdicknose
+mkdir ~/html/deploy
+put -rp ~/clone/* ~html/deploy/

@@ -63,7 +63,9 @@
 </div>
 <div id="outerWrapper">
   <div id="contentWrapper">
-    <div id="leftColumn1"><!-- #BeginLibraryItem "/Library/left-sidebar.lbi" --><div id="leftColumnContent"><strong>Helpful Prepaid Energy Links</strong>
+    <div id="leftColumn1"><!-- #BeginLibraryItem "/Library/left-sidebar.lbi" -->
+<link href="../styles/styles.css" rel="stylesheet" type="text/css">
+<div id="leftColumnContent"><strong>Helpful Prepaid Energy Links</strong>
         <ul>
           <li><a href="../prepaid-energy-services.html">Advantages of Prepaid Energy</a></li>
           <li><a href="../electricity-pricing.html">Prepaid Electricity Pricing</a></li>
@@ -77,7 +79,7 @@
 electricity rates, Payless<br />
 Power's does not charge<br />
 unnecessary fees that the<br />
-competitors ;might. This includes: <br />
+competitors might. This includes: <br />
 <br />
 - <strong>No Load Fee<br />
 - No Deposit or Credit Check<br />
