@@ -1,2 +1,0 @@
-mkdir ~/html/deploy
-put -rp ~/clone/* ~html/deploy/
